@@ -25,3 +25,6 @@ Analyser les alertes
 
 Produire un rapport de détection
 
+<img width="993" height="448" alt="image" src="https://github.com/user-attachments/assets/ea86a039-223a-4d4e-8f2b-77e96c6c2b9a" />
+
+
